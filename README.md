@@ -26,13 +26,13 @@ Add FOSUserBundle in your composer.json:
 Now tell composer to download the bundle by running the command:
 
 ``` bash
-$ php composer.phar update sinner/phpseclib-bundle
+$ php composer.phar update etics/phpseclib-bundle
 ```
 or
 
 
 ``` bash
-$ composer update sinner/phpseclib-bundle
+$ composer update etics/phpseclib-bundle
 ```
 
 Composer will install the bundle to your project's `vendor/sinner` directory.
