@@ -17,7 +17,7 @@ Add FOSUserBundle in your composer.json:
 {
     "require": {
         ...
-        "sinner/phpseclib-bundle": "dev-master"
+        "etics/phpseclib-bundle": "dev-master"
         ...
     }
 }
